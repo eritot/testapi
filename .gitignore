@@ -1,2 +1,4 @@
 
 *.pyc
+
+cdk8s/__snapshots__/
